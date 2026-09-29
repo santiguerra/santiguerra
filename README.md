@@ -57,7 +57,9 @@ Aprendí a programar de forma autodidacta antes de entrar a la universidad. Hoy 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santiguerra&theme=github-dark-blue&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Hackatime-280%2B_Horas_de_C%C3%B3digo-22C55E?style=for-the-badge&logo=wakatime&logoColor=white" alt="280+ Horas de Código" />
+  <img src="https://img.shields.io/badge/Actividad-5%2C300%2B_Sesiones_Registradas-0f172a?style=for-the-badge&logo=codeforces&logoColor=22C55E" alt="5300+ Sesiones registradas" />
+  <img src="https://img.shields.io/badge/Proyectos_en_Prod-4%2B_Plataformas-1e293b?style=for-the-badge" alt="4+ Plataformas en producción" />
 </p>
 
 ---
